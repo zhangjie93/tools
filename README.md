@@ -61,4 +61,4 @@
 - [vimsnake](https://vimsnake.com/): 利用 vim 玩贪吃蛇。
 - [keybr](https://www.keybr.com/): 学习盲打的网站。
 
-引用自(cs-self-learning)[https://github.com/pkuflyingpig/cs-self-learning/]
+引用自[cs-self-learning](https://github.com/pkuflyingpig/cs-self-learning/)
