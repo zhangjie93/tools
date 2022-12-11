@@ -5,7 +5,7 @@
 - [Libgen](http://libgen.is/): PDF电子书下载网站。
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
-- [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
+- [zlibrary](https://z-lib.is/): 电子书下载网站
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
 ## 设计工具
@@ -48,6 +48,9 @@
 - [ecust-CourseShare](https://github.com/tianyilt/ecnu-PGCourseShare): 华东师范大学研究生课程攻略共享计划。
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT): 清华大学计算机系课程攻略。
 - [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。
+
+## 写作
+- [在线LaTex](https://www.overleaf.com/)
 
 ## 杂项
 
