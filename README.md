@@ -5,6 +5,7 @@
 - [Libgen](http://libgen.is/): PDF电子书下载网站。
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
+- [本地youtube下载](https://github.com/ytdl-org/youtube-dl)
 - [zlibrary](https://z-lib.is/): 电子书下载网站
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
