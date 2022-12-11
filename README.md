@@ -53,7 +53,7 @@
 
 ## 文档及图片工具
 
--[docsmall](https://docsmall.com/)：PDF压缩，图片压缩
+- [docsmall](https://docsmall.com/)：PDF压缩，图片压缩
 ## 写作
 - [overleaf](https://www.overleaf.com/):在线LaTex
 
