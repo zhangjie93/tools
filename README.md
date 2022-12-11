@@ -51,6 +51,9 @@
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT): 清华大学计算机系课程攻略。
 - [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。
 
+## 文档及图片工具
+
+-[docsmall](https://docsmall.com/)：PDF压缩，图片压缩
 ## 写作
 - [overleaf](https://www.overleaf.com/):在线LaTex
 
