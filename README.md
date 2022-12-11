@@ -5,7 +5,7 @@
 - [Libgen](http://libgen.is/): PDF电子书下载网站。
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
-- [本地youtube下载](https://github.com/ytdl-org/youtube-dl)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)：本地youtube下载
 - [zlibrary](https://z-lib.is/): 电子书下载网站
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
@@ -51,7 +51,7 @@
 - [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。
 
 ## 写作
-- [在线LaTex](https://www.overleaf.com/)
+- [overleaf](https://www.overleaf.com/):在线LaTex
 
 ## 杂项
 
