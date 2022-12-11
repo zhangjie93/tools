@@ -6,6 +6,7 @@
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)：本地youtube下载
+- [you-get](https://github.com/soimort/you-get):常见视频网站下载
 - [zlibrary](https://z-lib.is/): 电子书下载网站
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
